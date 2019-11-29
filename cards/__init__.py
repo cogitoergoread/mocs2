@@ -1,0 +1,1 @@
+from .card import Szinek, Ertekek, Kartya
